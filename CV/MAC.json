@@ -1,0 +1,408 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alexandru",
+      "surnames": "Finta",
+      "title": "Administrador de sistemas/ DevOps junior",
+      "description": "Como me gustaban los videojuegos y el inglés, me interesé por los ordenadores y desde entonces mi interés no paró. Empecé montando ordenadores y alucinando con Linux, y el resto fue historia.\n\nEstuve varios años como helpdesk/ junior sysadmin, y después sysadmin, con lo que tengo más experiencia es el ámbito de administración de sistemas tradicional, gestión de incidencias. Me inicié en la vida DevOps y es como subir de nivel.",
+      "avatar": {
+        "alt": "photo_2023-03-17_21-45-39.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/17/827052bc-0357-4306-a813-bfc6598586a3_photo_2023-03-17_21-.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alexandru-finta/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Siemens Logistics"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "La empresa cambió su nombre. En el aeropuerto Adolfo Suárez Madrid-Barajas, departamento Sistema Automático de Tratamiento de Equipajes. Principalmente gestión de incidencias y mantenimiento de la infraestructura. Trabajo con servidores y clústeres HP-UX, cluster Linux Pacemaker, servidores Windows y Linux, Nagios, Oracle DBMS, SAN 3PAR."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Advanced Programming Solutions S.L."
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de sistemas web junior",
+            "startDate": "2018-06-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Consultoría especializada en desarrollo Python, mi puesto era de aprendiz/ Junior DevOps. Trabajé con y aprendí GCP, AWS, DIgitalOcean, SaltStack, scripts Python, desplegar webs/ aplicaciones Python, CheckMK, Nginx, Kubernetes.\nMis funciones principales eran desplegar entornos web Python y gestión de incidencias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Siemens Postal, Parcel & Airport Logistics"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "En el aeropuerto Son Sant Joan, Palma de Mallorca, departamento Sistema Automático de Tratamiento de Equipajes. Mantenimiento de servidores, redes, VMware, Nagios, Oracle DBMS."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Habitissimo"
+        },
+        "roles": [
+          {
+            "name": "Helpdesk",
+            "startDate": "2014-08-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Soporte a los usuarios, gestión de incidencias, aprendiendo a administrar sistemas, servidores Linux, redes, WiFi, MikroTik, VoIP Asterisk, Nagios. He aprendido como funciona Docker, SaltStack."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GAC Informática"
+        },
+        "roles": [
+          {
+            "name": "Dependiente/ tecnico",
+            "startDate": "2011-09-01",
+            "finishDate": "2013-08-01",
+            "challenges": [
+              {
+                "description": "Venta y reparación de ordenadores, media jornada."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Romanian",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nagios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Asterisk",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Saltstack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "HPE 3PAR Storage",
+        "startDate": "2022-10-01",
+        "finishDate": "2022-10-01",
+        "institution": {
+          "name": "HPE",
+          "description": "Curso inicial sobre almacenamiento en red SAN 3PAR."
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "HPE Cluster Pacemaker",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "HPE",
+          "description": "Curso inicial sobre clústeres Pacemaker."
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "AWS Certified Cloud Practitioner",
+        "startDate": "2019-05-01",
+        "finishDate": "2019-05-01",
+        "institution": {
+          "name": "AWS",
+          "description": "Introducción a AWS."
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Mikrotik MTCNA",
+        "startDate": "2016-10-01",
+        "finishDate": "2016-10-01",
+        "institution": {
+          "name": "formacionmikrotik.com",
+          "description": "Curso inicial redes MikroTik."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior Desarrollo de Aplicaciones Web",
+        "startDate": "2012-09-01",
+        "finishDate": "2014-06-01",
+        "institution": {
+          "name": "IES Francesc de Borja Moll",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Medio Administración de Sistemas Informáticos y Redes",
+        "startDate": "2009-09-01",
+        "finishDate": "2011-06-01",
+        "institution": {
+          "name": "IES Son Ferrer",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alexandru-finta/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Nagios",
+          "type": "technology"
+        },
+        {
+          "name": "Nginx",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Saltstack",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "SysAdmin"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Windows",
+        "type": "technology"
+      },
+      {
+        "name": "Nagios",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      }
+    ]
+  }
+}
